@@ -1,5 +1,5 @@
-- Hallo, ich bin kunRavi :>
-- I am from the Philippines, learning 6 languages
+- Hallo :>
+- I am learning 6 languages
 - If I am interested in programming, I'll give it a try
 
 <!---
